@@ -8,6 +8,8 @@ html {
 body {
  background-color: rgb(101, 101, 101);
 }
-keanuimg {
-  url (moon.jpeg) height:30%;
+img#keanuimg {
+  display: block;
+	width: 50%;
+	float: left;
 }
