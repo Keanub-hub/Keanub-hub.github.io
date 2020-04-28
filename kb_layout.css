@@ -7,17 +7,6 @@ html {
 
 body {
  background-color: rgb(101, 101, 101);
-  float: none;
-   margin: 0px auto;
-   width: 90%;
-   max-width: 1000px;
-   min-width: 800px;
-}
-keanuimg {
-  float: none;
-   margin: 0px auto;
-   width: 90%;
-   max-width: 1000px;
-   min-width: 800px;
+background: url(sd_back1.png) 100% / cover fixed;
 }
   
