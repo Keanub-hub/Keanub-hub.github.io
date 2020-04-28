@@ -9,5 +9,5 @@ body {
  background-color: rgb(101, 101, 101);
 }
 keanuimg {
-  url (moon.jpeg) height:30%;
+  url ('moon.jpeg') height:30%;
 }
