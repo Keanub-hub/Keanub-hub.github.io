@@ -10,6 +10,7 @@ html {
 body {
  background-color: rgb(101, 101, 101);
 font-family: Verdana, Geneva, sans-serif;
+  font-size: 0.95em;
 }
 img{
 width:30%;
