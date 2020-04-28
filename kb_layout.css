@@ -9,6 +9,8 @@ html {
 
 body {
  background-color: rgb(101, 101, 101);
+ font-size: 0.95em;
+    font-family: 'Comic Sans MS', cursive;
 }
 img{
 width:30%;
