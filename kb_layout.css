@@ -6,5 +6,10 @@ html {
 }
 
 body {
-  background-color: rgb(252, 253, 253);
+ background-color: rgb(101, 101, 101);
+   float: none;
+   margin: 0px auto;
+   width: 90%;
+   max-width: 1000px;
+   min-width: 800px;
 }
