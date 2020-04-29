@@ -33,9 +33,10 @@ align: center;
 border: 2px solid #ccc;
 }
 header {
-   width: 100%;
+   width: 150%;
   text-align: center;
 	display: inline-block;
+	border: 2px solid #ccc;
 }
 
 header nav.horizontal {
@@ -50,7 +51,6 @@ header nav.horizontal li {
    float: left;
    text-align: center;
    width: 16.66%;
-	border: 2px solid #ccc;
 }
 
 
