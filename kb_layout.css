@@ -50,6 +50,7 @@ header nav.horizontal li {
    float: left;
    text-align: center;
    width: 16.66%;
+	border: 2px solid #ccc;
 }
 
 
