@@ -37,6 +37,7 @@ header {
   text-align: center;
 	display: inline-block;
 	border: 2px solid #ccc;
+	background-color: rgb(41, 41, 41);
 }
 
 header nav.horizontal {
