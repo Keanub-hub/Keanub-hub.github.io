@@ -16,6 +16,7 @@ font-family: Nobile, Verdana, Geneva, sans-serif;
   display: inline-block;
   text-align: center;
 margin: 3px, 3px, 3px, 3px;
+border: 2px solid #ccc;
 }
 article{
 background-color: rgb(101, 101, 101);
