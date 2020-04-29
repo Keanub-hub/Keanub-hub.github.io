@@ -31,7 +31,7 @@ header nav.horizontal li {
    background-color: rgb(41, 41, 41);
    display: block;
    font-family: Tahoma, Geneva, sans-serif;
-   float: left;
+   float: center;
    width: 16.66%;
 }
 
