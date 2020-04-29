@@ -47,6 +47,7 @@ header nav.horizontal li {
    display: block;
    font-family: Tahoma, Geneva, sans-serif;
    float: left;
+   align: center;
    width: 16.66%;
 }
 
