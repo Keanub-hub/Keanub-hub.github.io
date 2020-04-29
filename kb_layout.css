@@ -31,13 +31,13 @@ width:30%;
 align: center;
 }
 header {
-   width: 100%;
+   max-width: auto;
   text-align: center;
 align-items:center;
 }
 
 header nav.horizontal {
-   width: 100%;
+   max-width: auto;
 }
 
 
