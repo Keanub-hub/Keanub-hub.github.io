@@ -30,6 +30,7 @@ p{
 }
 img{
 width:30%;
+display: inline-block;
   height:30%;
 align: center;
 border: 2px solid #ccc;
