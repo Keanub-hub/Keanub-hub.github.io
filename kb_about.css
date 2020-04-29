@@ -2,24 +2,43 @@
 
 h1{
   text-align: center;
+border: 3px solid rgb(255, 103, 0);
 }
 html {
   background-color: rgb(255, 103, 0);
+  text-align: center;
 }
 
 body{
  background-color: rgb(101, 101, 101);
 font-family: Nobile, Verdana, Geneva, sans-serif;
   font-size: 1.5em;
-  display: block;
+  display:block;
+  text-align: center;
+}
+article{
+background-color: rgb(101, 101, 101);
+font-family: Nobile, Verdana, Geneva, sans-serif;
+  font-size: 1em;
+  display:inline-block;
+  text-align: center;
+}
+p{
+ text-align:center;
 }
 img{
 width:30%;
   height:30%;
+align: center;
+border: 2px solid #ccc;
 }
 header {
-   width: 100%;
+   width: 83%;
   text-align: center;
+	display: inline-block;
+	border: 2px solid #ccc;
+	background-color: rgb(51, 51, 51);
+	margin: 5px, 5px;
 }
 
 header nav.horizontal {
@@ -29,17 +48,18 @@ header nav.horizontal {
 
 header nav.horizontal li {
    background-color: rgb(41, 41, 41);
-   display: block;
+   display: inline-block;
    font-family: Tahoma, Geneva, sans-serif;
-   float: center;
-   width: 16.66%;
+   float: left;
+   text-align: center;
+   width: 100%;
 }
 
 
 header nav.horizontal li a {
    color: white;
-   display: block;
-   font-size: 0.8em;
+   display: inline-block;
+   font-size: 0.95em;
    height: 50px; 
    letter-spacing: 0.1em;   
    line-height: 50px; 
