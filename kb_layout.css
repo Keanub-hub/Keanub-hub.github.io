@@ -57,7 +57,7 @@ header nav.horizontal li {
 
 
 header nav.horizontal li a {
-   color: white;
+   color: rgb(51, 51, 51);
    display: inline-block;
    font-size: 0.95em;
    height: 50px; 
