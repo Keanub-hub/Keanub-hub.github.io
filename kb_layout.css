@@ -33,7 +33,7 @@ align: center;
 border: 2px solid #ccc;
 }
 header {
-   width: 150%;
+   width: 100%;
   text-align: center;
 	display: inline-block;
 	border: 2px solid #ccc;
@@ -50,7 +50,7 @@ header nav.horizontal li {
    font-family: Tahoma, Geneva, sans-serif;
    float: left;
    text-align: center;
-   width: 16.66%;
+   width: 100%;
 }
 
 
