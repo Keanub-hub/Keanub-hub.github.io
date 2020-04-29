@@ -73,7 +73,7 @@ header nav.horizontal li a:visited, header nav.horizontal li a:link {
 
 
 body > header a {
-   background-color: rgb(51, 51, 51);  
+   background-color: rgb(41, 41, 41);  
 }
 
 body > header:active, body > header a:hover {
