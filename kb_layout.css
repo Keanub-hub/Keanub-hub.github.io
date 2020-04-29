@@ -33,11 +33,12 @@ align: center;
 border: 2px solid #ccc;
 }
 header {
-   width: 100%;
+   width: 85%;
   text-align: center;
 	display: inline-block;
 	border: 2px solid #ccc;
 	background-color: rgb(41, 41, 41);
+	margin: 5px, 5px;
 }
 
 header nav.horizontal {
