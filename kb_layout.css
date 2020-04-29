@@ -44,10 +44,10 @@ header nav.horizontal {
 
 header nav.horizontal li {
    background-color: rgb(41, 41, 41);
-   display: block;
+   display: inline-block;
    font-family: Tahoma, Geneva, sans-serif;
    float: left;
-   align: center;
+   text-align: center;
    width: 16.66%;
 }
 
