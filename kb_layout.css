@@ -37,7 +37,7 @@ header {
   text-align: center;
 	display: inline-block;
 	border: 2px solid #ccc;
-	background-color: rgb(41, 41, 41);
+	background-color: rgb(51, 51, 51);
 	margin: 5px, 5px;
 }
 
@@ -73,7 +73,7 @@ header nav.horizontal li a:visited, header nav.horizontal li a:link {
 
 
 body > header a {
-   background-color: rgb(41, 41, 41);  
+   background-color: rgb(51, 51, 51);  
 }
 
 body > header:active, body > header a:hover {
