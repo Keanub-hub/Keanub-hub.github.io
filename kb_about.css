@@ -4,6 +4,9 @@ h1{
   text-align: center;
 border: 3px solid rgb(255, 103, 0);
 }
+h2{
+ display: inline-block;
+}
 html {
   background-color: rgb(255, 103, 0);
   text-align: center;
