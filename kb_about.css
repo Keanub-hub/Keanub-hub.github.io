@@ -28,6 +28,7 @@ font-family: Nobile, Verdana, Geneva, sans-serif;
   font-size: 1em;
   display:inline-block;
   text-align: center;
+border: 2px solid #ccc;
 }
 p{
  text-align:center;
