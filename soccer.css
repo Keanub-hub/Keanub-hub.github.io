@@ -8,7 +8,9 @@ html {
   background-color: rgb(255, 103, 0);
   text-align: center;
 }
-
+head{
+background-color: rgb(101, 101, 101);
+}
 body{
  background-image: url (buffs.jfif);
 font-family: Nobile, Verdana, Geneva, sans-serif;
