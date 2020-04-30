@@ -10,7 +10,7 @@ html {
 }
 
 body{
- background: url (buffs.jfif) 100% / cover;
+ background-image: url (buffs.jfif);
 font-family: Nobile, Verdana, Geneva, sans-serif;
   font-size: 1.2em;
   display: inline-block;
