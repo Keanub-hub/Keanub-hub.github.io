@@ -30,7 +30,7 @@ p{
 }
 img{
 max-width:auto;
-  max-height:auto;
+  height:100%;
 align: center;
 border: 2px solid #ccc;
 }
