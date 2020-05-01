@@ -24,16 +24,16 @@ font-family: Nobile, Verdana, Geneva, sans-serif;
   font-size: 1em;
   display:inline-block;
   text-align: center;
+margin: 5px, 5px, 5px, 5px;
 }
 p{
  text-align:center;
 }
 img{
-width:50%;
-  height:100%;
+width:200%;
+  height:200%;
 align: center;
 border: 2px solid #ccc;
-display: block;
 }
 header {
    width: 83%;
