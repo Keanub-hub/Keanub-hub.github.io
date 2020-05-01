@@ -1,6 +1,6 @@
 @charset "utf-8";
 
-nav.horizontal, aside, footer {
+nav.horizontal, aside, article, footer {
   display: none;
 }
 @page {
