@@ -21,7 +21,7 @@ border: 2px solid #ccc;
 article{
 background-color: rgb(101, 101, 101);
 height: 3000px;
-width: 2000PX;
+width: 3000px;
 font-family: Nobile, Verdana, Geneva, sans-serif;
   font-size: 1em;
   display:inline-block;
@@ -33,7 +33,7 @@ p{
 }
 img{
 height: 4000px;
-width: 2000px;
+width: 3000px;
 
 align: center;
 border: 2px solid #ccc;
