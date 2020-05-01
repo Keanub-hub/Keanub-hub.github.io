@@ -29,10 +29,11 @@ p{
  text-align:center;
 }
 img{
-max-width:auto;
+width:50%;
   height:100%;
 align: center;
 border: 2px solid #ccc;
+display: block;
 }
 header {
    width: 83%;
