@@ -2,3 +2,20 @@
 
 @import url("kb_layout.css");
 
+@media screen and (max-width: 480px) {
+nav.vertical ul {
+  display: -webkit-flex;
+  display: flex;
+
+  -webkit-flex-flow: column wrap;
+  flex-flow: column wrap;
+
+  height: 240px;
+ }
+  
+  
+  @media screen and (min-width: 481px) {
+ nav.horizontal ul {
+  height: 160px;
+ }
+}
