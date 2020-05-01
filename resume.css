@@ -20,7 +20,7 @@ border: 2px solid #ccc;
 }
 article{
 background-color: rgb(101, 101, 101);
-Length: 100px, 100px;
+length: 100px 100px;
 font-family: Nobile, Verdana, Geneva, sans-serif;
   font-size: 1em;
   display:inline-block;
@@ -31,7 +31,7 @@ p{
  text-align:center;
 }
 img{
-length: 100px, 100px;
+length: 100px 100px;
 
 align: center;
 border: 2px solid #ccc;
