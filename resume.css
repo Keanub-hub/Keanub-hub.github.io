@@ -20,7 +20,7 @@ border: 2px solid #ccc;
 }
 article{
 background-color: rgb(101, 101, 101);
-height: 50000px;
+height: 4000px;
 width: 100%;
 font-family: Nobile, Verdana, Geneva, sans-serif;
   font-size: 1em;
@@ -32,7 +32,7 @@ p{
  text-align:center;
 }
 img{
-height: 50000px;
+height: 4000px;
 width: 1000px;
 
 align: center;
