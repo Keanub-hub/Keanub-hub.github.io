@@ -30,8 +30,8 @@ p{
  text-align:center;
 }
 img{
-width:200%;
-  height:200%;
+max-width: 100%;
+  height: auto;
 align: center;
 border: 2px solid #ccc;
 }
