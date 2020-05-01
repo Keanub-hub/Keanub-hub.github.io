@@ -83,7 +83,7 @@ body > header:active, body > header a:hover {
    background-color: rgb(51, 51, 151);
 }
 footer {
-float: bottom, right;
+float: bottom;
 font-size: 0.6em;
 color: white;
 display: block;
