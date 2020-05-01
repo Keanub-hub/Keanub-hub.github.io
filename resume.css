@@ -11,6 +11,7 @@ html {
 
 body{
 background-color: rgb(101, 101, 101);
+background-image: url(resume.jpg);
 font-family: Nobile, Verdana, Geneva, sans-serif;
   font-size: 1.2em;
   display: inline-block;
